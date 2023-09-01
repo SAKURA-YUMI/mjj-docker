@@ -1,3 +1,3 @@
 FROM mjjonone/mjj:amd64
-ENV PORT=7860
+ENV PORT=8290
 RUN chmod 777 /app
